@@ -1,0 +1,26 @@
+.box {
+    width: 500px;
+    margin: 200px 0;
+}
+#title{
+    text-align: center;
+}
+.bg {
+  background-image: url("me1.jpg");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/*.float {
+    z-index: 2;
+}*/
+
+.form {
+    float: center;
+}
+
+/*.box{
+    margin-bottom: 30% !important;
+}*/
+
